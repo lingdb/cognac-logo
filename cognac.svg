@@ -98,7 +98,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>CognaC logo</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+           rdf:resource="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         <dc:date>2016-02-08</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -117,7 +117,7 @@
         </dc:subject>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+         rdf:about="https://creativecommons.org/licenses/by-nc-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
