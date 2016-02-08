@@ -25,5 +25,4 @@ convert \
   cognac_64px.png \
   cognac_128px.png \
   cognac_256px.png \
-  -colors 256 \
   favicon.ico
