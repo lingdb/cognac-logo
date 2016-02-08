@@ -18,3 +18,12 @@ convert cognac_310px.png -resize 144x144\> cognac_144px.png
 convert cognac_310px.png -resize 150x150\> cognac_150px.png
 convert cognac_310px.png -resize 152x152\> cognac_152px.png
 convert cognac_310px.png -resize 196x196\> cognac_196px.png
+convert cognac_310px.png -resize 256x256\> cognac_256px.png
+convert \
+  cognac_16px.png \
+  cognac_32px.png \
+  cognac_64px.png \
+  cognac_128px.png \
+  cognac_256px.png \
+  -colors 256 \
+  favicon.ico
