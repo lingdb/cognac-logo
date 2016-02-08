@@ -1,0 +1,20 @@
+#!/bin/bash
+# Compare https://stackoverflow.com/questions/4014823/does-a-favicon-have-to-be-32x32-or-16x16
+convert cognac_310px.png -resize 16x16\> cognac_16px.png
+convert cognac_310px.png -resize 24x24\> cognac_24px.png
+convert cognac_310px.png -resize 32x32\> cognac_32px.png
+convert cognac_310px.png -resize 48x48\> cognac_48px.png
+convert cognac_310px.png -resize 57x57\> cognac_57px.png
+convert cognac_310px.png -resize 60x60\> cognac_60px.png
+convert cognac_310px.png -resize 64x64\> cognac_64px.png
+convert cognac_310px.png -resize 70x70\> cognac_70px.png
+convert cognac_310px.png -resize 72x72\> cognac_72px.png
+convert cognac_310px.png -resize 76x76\> cognac_76px.png
+convert cognac_310px.png -resize 96x96\> cognac_96px.png
+convert cognac_310px.png -resize 114x114\> cognac_114px.png
+convert cognac_310px.png -resize 120x120\> cognac_120px.png
+convert cognac_310px.png -resize 128x128\> cognac_128px.png
+convert cognac_310px.png -resize 144x144\> cognac_144px.png
+convert cognac_310px.png -resize 150x150\> cognac_150px.png
+convert cognac_310px.png -resize 152x152\> cognac_152px.png
+convert cognac_310px.png -resize 196x196\> cognac_196px.png
